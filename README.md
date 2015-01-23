@@ -8,5 +8,5 @@ Please preserve sorted order (by first name).
 - Menushka Weeratunga https://github.com/ChaosGodEX
 - Paul Krishnamurthy https://github.com/paulKr
 - Rikin Katyal https://github.com/rikinkatyal
+- Shahir Chowdhury https://github.com/ry622
 - Yuri Chernyak https://github.com/yurichernyak
-
